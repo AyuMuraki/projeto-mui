@@ -225,7 +225,6 @@ Após a instalação das dependências, rode o projeto com:
 
 ```
 npm run dev
-
 ```
 
 **4️⃣ Acessar no Navegador:**
@@ -234,7 +233,6 @@ Após iniciar o servidor, abra seu navegador e acesse:
 
 ```
 http://localhost:5173
-
 ```
 
 
