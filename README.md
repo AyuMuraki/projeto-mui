@@ -15,6 +15,7 @@ TailwindCSS	Framework de classes utilitárias para estilização rápida (não u
 TypeScript	Superset de JavaScript que adiciona tipagem estática, aumentando a segurança e legibilidade do código.
 Bootstrap	Biblioteca tradicional de UI baseada em grid e componentes (não utilizado aqui).
 jQuery	Biblioteca antiga para manipular DOM (pouco utilizada em projetos modernos com React).
+
 ✅ Neste projeto: React + TypeScript + MUI.
 
 ## 🔍 O que é o MUI?
